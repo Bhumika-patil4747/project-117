@@ -1,0 +1,18 @@
+body{
+    background-color: #B9B2DC;
+}
+
+#Score{
+    font-size: larger;
+    margin-left: 10px;
+}
+
+#Timer{
+    font-size: larger;
+    margin-right: 10px;
+}
+
+#Sketch{
+    font-size: larger;
+    color: blueviolet;
+}
